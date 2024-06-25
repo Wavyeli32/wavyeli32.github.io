@@ -3,7 +3,7 @@ layout: post
 title: Welcome to my Blog
 ---
 
-I am an Graduate Student attending Norfolk State University. I am From Washington DC. I also Love to play piano.
+I am a graduate student attending Norfolk State University, where I am pursuing my studies with great enthusiasm and dedication. Originally from Washington, D.C., I bring the vibrant energy and rich cultural heritage of the capital city to my academic and personal endeavors. In addition to my studies, I have a deep passion for music and love to play the piano. This creative outlet not only provides me with a sense of joy and relaxation but also enhances my discipline and focus in my academic pursuits.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
