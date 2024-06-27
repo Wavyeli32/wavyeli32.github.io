@@ -150,14 +150,13 @@ img {
 .wrapper-masthead {
   margin-bottom: 50px;
   padding: 20px;
-  border: 2px solid $gray;
   background-color: $midnightBlue;
 }
 
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-  background-color: $darkGray;
+  background-color: $black;
   border-radius: 10px;
 
   @include mobile {
