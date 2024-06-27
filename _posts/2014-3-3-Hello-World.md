@@ -10,7 +10,3 @@ In addition to my academic commitments, I have a deep passion for music and love
 At Norfolk State University, I serve as the Choir Director for the Campus Ministry, where I direct and lead the choir, organize and conduct rehearsals, and plan and execute performances for worship services and special events. My volunteer activities include assisting with planning and coordinating campus ministry events, supporting outreach programs to engage students in spiritual growth and community service, and participating in food drives, clothing donations, and other charitable activities.
 
 Additionally, I am involved in various volunteer opportunities through the campus ministry, engage in local community clean-up projects, and support initiatives aimed at helping underserved populations in the Norfolk area. My goal is to positively influence the local community through dedicated service and leadership, fostering a sense of unity and purpose among peers and community members while developing skills and experiences that contribute to personal growth and community betterment.
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
