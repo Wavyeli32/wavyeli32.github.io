@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Step Into My World: Explore My Blog
+title: Step Into My World and Explore My Blog
 ---
 
 I am currently an intern at the University of Santa Cruz, participating in the Catalyst program for computer science students. In this role, I am actively contributing to numerous open source projects on GitHub, showcasing my strong collaborative skills and proficiency in various programming languages and frameworks. As a graduate student at Norfolk State University, I pursue my studies with great enthusiasm and dedication. Originally from Washington, D.C., I bring the vibrant energy and rich cultural heritage of the capital city to my academic and personal endeavors.
