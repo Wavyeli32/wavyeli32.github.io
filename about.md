@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+I love To play the piano and workout!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also am a Masters student in Computer Science at Norfolk State University.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Elijaheverett@gmail.com](mailto:email@domain.com)
