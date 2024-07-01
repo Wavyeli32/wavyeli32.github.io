@@ -8,3 +8,5 @@ One significant challenge I want to impact with technology is bridging the digit
 When I’m successful, the first person I want to tell about it is my mother. She has always been my biggest supporter and inspiration, constantly encouraging me to pursue my dreams and work hard. Her belief in my abilities and her unwavering support have been instrumental in my journey, and sharing my success with her would mean the world to me.
 
 Sugar Labs develops the Sugar Learning Platform, which is designed to promote collaborative learning through activities that encourage critical thinking and problem-solving. Sugar is used in the One Laptop per Child  project, aiming to provide affordable educational devices to children worldwide.
+
+![Computer](./images/Done.jpeg)
