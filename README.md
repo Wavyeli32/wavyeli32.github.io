@@ -21,6 +21,7 @@ In a few minutes you'll be set up with a minimal, responsive blog like the one b
 ### Step 1) Fork Jekyll Now to your User Repository
 
 Fork this repo, then rename the repository to yourgithubusername.github.io.
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/{owner}/{repo}/badge)](https://scorecard.dev/viewer/?uri=github.com/{owner}/{repo})
 
 Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
 
